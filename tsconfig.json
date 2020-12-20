@@ -15,6 +15,7 @@
     "noFallthroughCasesInSwitch": true,
     "module": "esnext",
     "moduleResolution": "node",
+    "noImplicitAny": false, //here
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
